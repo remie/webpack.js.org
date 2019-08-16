@@ -34,6 +34,9 @@ or pass it as a [CLI](/api/cli/) argument:
 webpack --mode=production
 ```
 
+W> The CLI value takes precedence over the config value when provided both.
+
+
 The following string values are supported:
 
 Option                | Description
